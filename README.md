@@ -70,4 +70,4 @@ Le sujet complet est disponible dans le fichier `TP - MNIST CNN.pdf`.
 ---
 
 ## ✍️ Auteur
-Votre nom 
+Vanelle beunkeu
