@@ -1,0 +1,6 @@
+[submodule "mnist-frontend"]
+	path = mnist-frontend
+	url = https://github.com/vanelleNgadjui/mnist-frontend
+[submodule "mnist-backend"]
+	path = mnist-backend
+	url = https://github.com/vanelleNgadjui/mnist-backend
